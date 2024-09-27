@@ -37,3 +37,9 @@ ul li a:hover {
   color: cornflowerblue;
   padding: 0 20px;
 }
+
+/*MY CSS*/
+h1 {
+  margin-left: 80px;
+  font-size: 42px;
+}
