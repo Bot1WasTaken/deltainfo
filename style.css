@@ -43,3 +43,7 @@ h1 {
   margin-left: 80px;
   font-size: 42px;
 }
+
+.delta-basic-intro h1 {
+  font-family: serif;
+}
