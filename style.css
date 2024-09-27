@@ -67,11 +67,17 @@ hr {
   border-style: none;
 }
 
-.abt-page {
+.abt-page-h1 {
   padding: 20px;
   margin-top: 40px;
   margin-left: 30px; 
   font-size: 36px;
+}
+
+.abt-page-p {
+  padding: 10px;
+  font-size: 16px;
+  
 }
 
 .middle-text {
