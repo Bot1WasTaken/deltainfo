@@ -78,9 +78,15 @@ hr {
   padding: 10px;
   font-size: 16px;
   margin-left: 10px;
-  
+  font-family: arial;
 }
 
 .middle-text {
   text-align: center;
+}
+
+#checking-extensions {
+  font-size: 14px;
+  margin-left: 40px;
+  padding: 5px;
 }
