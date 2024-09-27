@@ -39,11 +39,18 @@ ul li a:hover {
 }
 
 /*MY CSS*/
+
+/*WORK HERE*/
+body {
+  background-color: rbg();
+}
+
 h1 {
-  margin-left: 80px;
+  padding: 20px;
+  text-align: center;
   font-size: 42px;
 }
 
 .delta-basic-intro h1 {
-  font-family: serif;
+  font-family: "times new roman", serif;
 }
