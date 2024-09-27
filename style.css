@@ -54,3 +54,9 @@ h1 {
 .delta-basic-intro h1 {
   font-family: "times new roman", serif;
 }
+
+hr {
+  height: 10px;
+  background-color: ;
+  border-style: none;
+}
