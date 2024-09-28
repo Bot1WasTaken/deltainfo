@@ -62,7 +62,7 @@ body {
 
 /* Here lies <hr> */
 .after-page {
-    width: 100%;
+  width: 100%;
   height: 10px;
   background-color: rgb(78, 191, 133);
   border-style: none;
@@ -96,10 +96,13 @@ body {
   color: blue;
 }
 
+/*Screenshot <hr>'s?*/
+
 hr {
-  width: 100%;
+  align: center;
+  width: 100% ;
   height: 8px;
-  background-color: rgb(101, 219, 125);
+  background-color: rgb(128, 196, 154);
   border-style: none;
 }
 
