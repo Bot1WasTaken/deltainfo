@@ -112,8 +112,8 @@ background-color: rgb(128, 196, 154);
   width: 450px;
 }
 
-#incog-faq-p {
-  padding: 102px;
+.incog-faq-p {
+  padding: 20px;
 }
 
 /*
