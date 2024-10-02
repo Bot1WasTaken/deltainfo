@@ -44,5 +44,7 @@ body {
 
 .icons {
   height: 20px;
-  fill: white;
+  margin: 5px 7px 0px 2px;
+  padding: 0.5px;
+  color: green;
 }
