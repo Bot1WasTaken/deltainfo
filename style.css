@@ -26,7 +26,7 @@ body {
 }
 
 .wrapper .sidebar h2 {
-  color: #ffffff;
+  color: #C0C0C0;
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 30px;
@@ -41,7 +41,7 @@ body {
 
 
 .wrapper .sidebar ul li a {
-  color: white;
+  color: 	#C0C0C0;
   display: block;
 }
 
@@ -53,3 +53,10 @@ body {
   padding: 0.5px;
   list-style: url(https://cdn.glitch.global/6d5ff79f-dd3e-485e-9b15-3fbcbb754c58/home.svg?v=1727874260371);
 }
+
+.test {
+  margin: 20px 0px 0px 300px;
+}
+
+
+/* this shouldnt be working */
