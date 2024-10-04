@@ -62,5 +62,9 @@ body {
   font-size: 40px;
 }
 
+#home-pg-p {
+  font-family: monospace;
+}
+
 
 /* this shouldnt be working */
