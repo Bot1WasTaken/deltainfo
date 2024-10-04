@@ -10,6 +10,8 @@ body {
   background: #f3f5f9;
 }
 
+/*save*/
+
 .wrapper {
   display: flex;
   position: relative;
@@ -37,17 +39,17 @@ body {
   list-style-image: url('eye-off.svg');
 }
 
+
 .wrapper .sidebar ul li a {
   color: white;
   display: block;
 }
 
+
+
 .icons {
   height: 20px;
   margin: 5px 7px 0px 2px;
   padding: 0.5px;
-  color: green;
   list-style: url(https://cdn.glitch.global/6d5ff79f-dd3e-485e-9b15-3fbcbb754c58/home.svg?v=1727874260371);
 }
-
-.test ul li 
