@@ -70,5 +70,16 @@ body {
   font-family: monospace;
 }
 
+p {
+  line-height: 130%;
+}
+
+.classic-hr {
+  height: 5px;
+  background:black;
+  border-style: none;
+  width: 1060px;
+}
+
 
 /* this shouldnt be working */
