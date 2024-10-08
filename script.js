@@ -1,1 +1,2 @@
-document.getElementById("answer")
+document.getElementById("test").innerHTML = 'functiontest';
+
