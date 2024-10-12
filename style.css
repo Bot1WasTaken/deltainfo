@@ -82,4 +82,13 @@ p {
   height: 135px;
 }
 
+details:hover {
+  cursor: default;
+}
+
+summary:hover {
+
+  cursor: pointer;
+}
+
 /* this shouldnt be working */
