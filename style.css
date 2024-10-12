@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  list-style-image: url('eye-off.svg');
+  list-style-image: url("eye-off.svg");
   text-decoration: none;
 }
 
@@ -10,7 +10,6 @@ body {
   background: #f3f5f9;
   font-size: 14px;
 }
-
 
 .wrapper {
   display: flex;
@@ -25,9 +24,8 @@ body {
   padding: 30px 0;
 }
 
-
 .wrapper .sidebar h2 {
-  color: #C0C0C0;
+  color: #c0c0c0;
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 30px;
@@ -35,18 +33,15 @@ body {
 
 .wrapper .sidebar ul li {
   padding: 15px;
-  border-bottom: 1px solid rgba(0,0,0,0.05);
-  border-top: 1px solid rgba(225,225,225,0.05);
-  list-style-image: url('eye-off.svg');
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  border-top: 1px solid rgba(225, 225, 225, 0.05);
+  list-style-image: url("eye-off.svg");
 }
-
 
 .wrapper .sidebar ul li a {
-  color: 	#C0C0C0;
+  color: #c0c0c0;
   display: block;
 }
-
-
 
 .icons {
   height: 22px;
@@ -73,7 +68,7 @@ p {
 
 .classic-hr {
   height: 5px;
-  background:black;
+  background: black;
   border-style: none;
   width: 1060px;
 }
