@@ -91,4 +91,10 @@ summary:hover {
   cursor: pointer;
 }
 
+.bundles-div {
+  height: 250px;
+  width: 200px;
+  background: grey;
+}
+
 /* this shouldnt be working */
