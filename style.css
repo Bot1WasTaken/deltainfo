@@ -96,6 +96,8 @@ summary:hover {
   width: 300px;
   background-color: rgb(179, 179, 179);
   margin: 20px 30px 30px 250px;
+  font-family: monospace;
+  text-align: center;
 }
 
 .bundles-div-content {
