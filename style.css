@@ -92,10 +92,17 @@ summary:hover {
 }
 
 .bundles-div-top {
-  height: 50px;
+  height: 40px;
   width: 300px;
   background-color: rgb(179, 179, 179);
   margin: 20px 30px 30px 250px;
+}
+
+.bundles-div-content {
+    height: 200px;
+  width: 300px;
+  background-color: rgb(220, 220, 220);
+  margin: -30px 30px 30px 250px;
 }
 
 /* this shouldnt be working */
