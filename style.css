@@ -107,4 +107,16 @@ summary:hover {
   margin: -30px 30px 30px 250px;
 }
 
+/*Here lies faq <details>*/
+
+.faq-boxes {
+min-height: 300px;
+border: 5px solid black;
+display:flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items:left;
+}
+
+
 /* this shouldnt be working */
