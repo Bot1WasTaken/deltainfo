@@ -110,8 +110,8 @@ summary:hover {
 /*Here lies faq <details>*/
 
 .faq-boxes {
-min-height: 300px;
-border: 5px solid black;
+min-height: 30px;
+border: none;
 display:flex;
 flex-direction: row;
 justify-content: flex-start;
