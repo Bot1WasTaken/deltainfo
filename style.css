@@ -134,4 +134,24 @@ align-items:left;
   font-size: 20px;
 }
 
+.pricing-things {
+  min-height: 30px;
+display:flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items:left;
+  border: 5px solid black;
+  width: 50%;
+}
+
+.actual-pricing {
+  min-height: 30px;
+display:flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items:right;
+  border: 5px solid black;
+  width: 50%;
+}
+
 /* this shouldnt be working */
