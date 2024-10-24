@@ -50,12 +50,21 @@
       button {
         cursor: pointer;
       }
-      .input-type {
+      .input-text {
         min-height: 50px;
-        min-widht: 200px;
+        min-width: 200px;
         border-style: 10px rgb(117, 117, 117);
         border-radius: 5px;
         background: rgb(153, 153, 153);
+      }
+      .input-submit {
+      min-height: 50px;
+        min-width: 75px;
+        border-style: 10px rgb(117, 117, 117);
+        border-radius: 5px;
+        background: rgb(153, 153, 153);
+        color: rgb(85, 85, 85);
+        cursor: pointer;
       }
     </style>
   </head>
@@ -78,11 +87,12 @@
     <p>
       Didn't mean to come here? <a href="index.html">Go to front page.</a><br> If you aren't an admin, you really should not be here.
     </p>
-    <p>
-      For admins:<br> Once you log in successfully, 1) there will be a list of about 250 proxies 2) Step by Step for Incognito 3) Everything you need to jailbreak the chromebook
+    <p style="border-style: 3px solid white;">
+      For admins:<br> Once you log in successfully, 1) there will be a list of about 250 proxies 2) Step by Step for Incognito 3) Everything you need to jailbreak the chromebook<br> Ask 'Bot 1' for password.
     </p>
     <center>
-      <input type="text" class="input-type" placeholder="Admin Password">
+      <input type="text" class="input-text" placeholder="Admin Password">
+      <input type="submit" class="input-submit">
     </center>
   </body>
 </html>
