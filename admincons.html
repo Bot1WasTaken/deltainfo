@@ -50,6 +50,13 @@
       button {
         cursor: pointer;
       }
+      .input-type {
+        min-height: 50px;
+        min-widht: 200px;
+        border-style: 10px rgb(117, 117, 117);
+        border-radius: 5px;
+        background: rgb(153, 153, 153);
+      }
     </style>
   </head>
   <body>
@@ -63,18 +70,19 @@
           font-family: arial;
         "
       >
-        DELTA ADMIN CONSOLE
+        Admin Page
       </h1>
     </center>
     <center>
     </center>
     <p>
-      This is a page for admins ONLY. If you got here by accident, <a href="index.html">GO BACK HERE</a>, unless you're an admin.
+      Didn't mean to come here? <a href="index.html">Go to front page.</a><br> If you aren't an admin, you really should not be here.
+    </p>
+    <p>
+      For admins:<br> Once you log in successfully, 1) there will be a list of about 250 proxies 2) Step by Step for Incognito 3) Everything you need to jailbreak the chromebook
     </p>
     <center>
-      <button type="form">
-
-      </button>
+      <input type="text" class="input-type" placeholder="Admin Password">
     </center>
   </body>
 </html>
